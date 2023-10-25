@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="_year">-</string>
+    <string name="_month">-</string>
+    <string name="_day">-</string>
+    <string name="_hour">-</string>
+    <string name="_minute">-</string>
+    <string name="_second">-</string>
+    <string name="_today">今天</string>
+    <string name="_tomorrow">明天</string>
+    <string name="_after_tomorrow">后天</string>
+    <string name="_this_year">今年</string>
+    <string name="_next_year">明年</string>
+
+    <string name="cancel">Cancel</string>
+    <string name="finish">Done</string>
+</resources>
